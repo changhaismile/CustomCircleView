@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.changhaismile.customview.MainActivity">
+
+    <com.example.changhaismile.customview.one.CustomView
+        android:id="@+id/am_progressbar_one"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        custom:titleText="3712"
+        custom:titleTextColor="#ff0000"
+        custom:titleTextSize="40sp"
+        android:layout_centerInParent="true"
+        android:padding="10dp"/>
+
+</RelativeLayout>
