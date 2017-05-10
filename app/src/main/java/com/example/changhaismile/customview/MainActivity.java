@@ -95,9 +95,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     /**
-     * master分支
+     * b分支
      */
-    private void master() {
+    private void b () {
 
     }
 }
