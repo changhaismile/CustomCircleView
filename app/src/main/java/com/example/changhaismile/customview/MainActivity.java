@@ -93,4 +93,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void learn() {
 
     }
+
+    private void b () {
+
+    }
 }
