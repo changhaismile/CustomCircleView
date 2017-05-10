@@ -86,25 +86,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
         }
     }
-
-    /**
-     * 学习方法
-     */
-    private void learn() {
-
-    }
-
-    /**
-     * b分支
-     */
-    private void b () {
-
-    }
-
-    /**
-     * master分支
-     */
-    private void master() {
-
-    }
 }
